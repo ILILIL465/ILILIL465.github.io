@@ -30,7 +30,7 @@ main {
 	background-position: center;
 	background-size: cover;
 	transition:all 0.5s ease;
-	box-shadow: 0 010px 1px rgba(0,0,0,0.2);
+	box-shadow: 0 0 10px 1px rgba(0,0,0,0.2);
 
 }
 .photo:hover {
